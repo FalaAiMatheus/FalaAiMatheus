@@ -2,7 +2,7 @@
 - Programador Front-End a mais de 3 anos, certificado em linguagem C#. Designer a mais de 7 anos, um cara bem descontraido e sempre buscando evoluir sempre.
 <div align="center">
   <a href="https://github.com/MatheusFrancaDEV">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusFrancaDEVi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusFrancaDEV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFrancaDEV&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
