@@ -1,6 +1,6 @@
 ## Eai! Aqui quem fala é o <strong>Matheus<strong/>! 
 
-Desenvolvedor Front-end e estudante de ADS 
+Desenvolvedor Front-end & Programador em C#. Estudando para Full stack & Estudante de ADS (Analise e Desenvolvimento de Sistemas).
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
