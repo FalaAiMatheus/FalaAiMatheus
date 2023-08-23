@@ -1,6 +1,6 @@
 ## Eai! Aqui quem fala é o <strong>Matheus<strong/>! 
 
-Desenvolvedor Front-end & Programador em C#. 
+Desenvolvedor Front-end & Programador em C#. <br>
 Estudando para Full stack & Estudante de ADS (Analise e Desenvolvimento de Sistemas).
 
 <div style="display: inline_block"><br>
