@@ -1,7 +1,6 @@
 ## Eai! Aqui quem fala é o <strong>Matheus<strong/>! 
 
-Desenvolvedor Front-end & Programador em C#. <br>
-Estudando para Full stack & Estudante de ADS (Analise e Desenvolvimento de Sistemas).
+Desenvolvedor Front-end
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
