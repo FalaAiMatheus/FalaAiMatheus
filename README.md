@@ -1,9 +1,5 @@
-## Eai! Aqui quem fala é o <strong>Matheus<strong/>! 
+##<strong>Matheus França</strong>
 
-Desenvolvedor Front-end
+Sou desenvolvedor Front End e tenho experiência com: HTML, CSS, JavaScript, Bootstrap, Github e Git.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+Atualmente estou estudando sobre React e outras bibliotecas e frameworks.
