@@ -1,4 +1,5 @@
-## Eai! Aqui quem fala é o <strong>Matheus<strong/>! 
+### Eai! Aqui quem fala é o <strong>Matheus<strong/>! 
 Sou desenvolvedor Front End e tenho experiência com: HTML, CSS, JavaScript, Bootstrap, Github e Git.
+Mexo com Back End as vezes.
 
-Atualmente estou estudando sobre React e outras bibliotecas e frameworks.
+Atualmente estou estudando sobre React, TypeScript, bibliotecas e frameworks Front End e Back End.
