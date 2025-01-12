@@ -8,14 +8,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/matheus-fran%C3%A7a13)
 
-<div style="display:flex; align-items:center; justify-content: center; gap: .6rem; ">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FalaAiMatheus&show_icons=true&theme=codeSTACKr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FalaAiMatheus&layout=compact&theme=codeSTACKr)
-
-</div>
-
-
 ## Technologies
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs" alt="Skills Logo"/>
