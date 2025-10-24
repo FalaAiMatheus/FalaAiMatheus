@@ -1,12 +1,49 @@
-## Hello everyone! My name is Matheus!
-👋 Hi there! My name is Matheus, I'm a Software developer passionate about technology. With 3 years of experience in JavaScript, React JS, TypeScript, NextJS and NodeJS.
-  
-🌱 I'm always learning and updating myself with the latest trends and best practices in full-stack development, exploring both the front-end and back-end to create complete solutions.
-  
-🔗 Check out my [portfolio](https://falaaimatheus.vercel.app/) at to see some of my recent work.
+<h1 align="center">Hello everyone! My name is Matheus! 📚</h1>
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/matheus-fran%C3%A7a13)
+<p align="center">
+  <em>Full Stack Developer • Organizer • Sometimes Speaker </em>
+</p>
 
-## Technologies
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDV3bDY1MzM3ZDd2bmpnZGMzNHcwcTJmYjUzbmNxY2w0MW5zOG5lbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rHR8qP1mC5V3G/giphy.gif" width="400px" alt="star wars han solo" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,docker,nestjs" alt="Skills Logo"/>
+---
+
+<p align="start">
+👋 I'm a Front-End Developer with two years of experience in the field. I'm a person who's been passionate about technology since I was young, and I enjoy solving problems with a lot of creativity. I've participated in a few projects, including the development of the "Work With Us" portal for Grupo de Comunicação O POVO, the development of the Front End Day website (the main technology event for the Front End CE community), and I'm currently working on the development of the new portal for the Javascript CE community.
+</p>
+<p align="start">  
+🌱 I work directly with some of the main technologies on the market: Next.js, TypeScript Node, Laravel, Docker.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheussfranca/">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="https://falaaimatheus.vercel.app/">
+    <img src="https://img.shields.io/badge/-Website-00AB33?style=flat-square&logo=Google-Chrome&logoColor=white">
+  </a>
+</p>
+
+---
+
+### 🧠 About Me
+
+- 🔭 Full Stack Developer
+- 😎 Organizer at [JavaScript CE](https://www.javascript-ceara.org/)
+- 🎙  Sometimes Speaker
+
+---
+
+### 💻 Tech Stack Highlights
+
+<p align="start">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalaAiMatheus&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+</p>
+
+---
+
+### 👨‍💻 Technologies
+
+<img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,nestjs,nextjs,vue,php,laravel,docker" alt="Skills Logo"/>
