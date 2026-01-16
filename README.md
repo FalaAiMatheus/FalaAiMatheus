@@ -34,16 +34,6 @@
 - 😎 Organizer at [JavaScript CE](https://www.javascript-ceara.org/)
 - 🎙  Sometimes Speaker
 
----
-
-### 💻 Tech Stack Highlights
-
-<p align="start">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalaAiMatheus&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
-</p>
-
----
-
 ### 👨‍💻 Technologies
 
 <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,nestjs,nextjs,vue,php,laravel,docker" alt="Skills Logo"/>
