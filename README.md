@@ -11,7 +11,7 @@
 ---
 
 <p align="start">
-👋 I'm a Full Stack Developer with two years of experience in the field. I'm a person who's been passionate about technology since I was young, and I enjoy solving problems with a lot of creativity. I've participated in a few projects, including the development of the "Work With Us" portal for Grupo de Comunicação O POVO, the development of the Front End Day website (the main technology event for the Front End CE community), and I'm currently study to improve my skills on Full Stack.
+👋 I'm a Full Stack Developer with three years of experience in the field. I'm a person who's been passionate about technology since I was young, and I enjoy solving problems with a lot of creativity. I've participated in a few projects, including the development of the "Work With Us" portal for Grupo de Comunicação O POVO, the development of the Front End Day website (the main technology event for the Front End CE community), and I'm currently study to improve my skills on Full Stack.
 </p>
 <p align="start">  
 🌱 I work directly with some of the main technologies on the market: Next.js, TypeScript Node, Laravel, Docker.
