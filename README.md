@@ -19,7 +19,6 @@
   <a href="https://www.javascript-ceara.org/">
     <img src="https://img.shields.io/badge/JavaScript_CE-3B82F6?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript CE" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=FalaAiMatheus&color=0A66C2&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,50:3b82f6,100:58a6ff&height=3" width="100%" alt="divider" />
